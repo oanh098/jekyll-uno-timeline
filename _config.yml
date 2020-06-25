@@ -1,21 +1,21 @@
 # Site settings
-title: Thomas Zühlke
+title: Freelance Website Development
 description: 'Business Card Page'
-url: 'http://thomas.zuehlke.family'
+url: 'http://oanh.tran.family'
 baseurl: ''
-profilepic: '/images/tzuehlke.jpg'
-bkimage: '/images/bk1.jpg'
+profilepic: '/images/oanh.jpg'
+bkimage: '/images/bkstreet.jpg'
 google_analytics: UA-XXXXXX-X
 font_awesome: 'XXXXXXXXXX.js'
 
 author:
-  name: 'Thomas Zühlke'
-  email: info@thomas-zuehlke.de
-  twitter_username: thomzuehlke
+  name: 'Oanh Tran'
+  email: thuyoanh21790@gmail.com
+#  twitter_username: thomzuehlke
 #  facebook_username: joshgerdes
-  github_username:  tzuehlke
-  linkedin_username:  thomas-zühlke-889182165
-  meetup_name: Azure-Meetup-Rostock-MV
+  github_username:  oanh098
+  linkedin_username:  tran-oanh-620035a2
+#  meetup_name: oanh098
 
 # Build settings
 destination: _site
