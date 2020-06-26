@@ -33,4 +33,8 @@ kramdown:
   hard_wrap: false
 
 #plugins: ['jekyll-paginate']
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
 exclude: ['README.md', 'screenshot-overview.png']
