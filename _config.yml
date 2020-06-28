@@ -38,3 +38,19 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 exclude: ['README.md', 'screenshot-overview.png']
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "index"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
