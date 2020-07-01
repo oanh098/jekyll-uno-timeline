@@ -15,14 +15,4 @@
   img: '/images/RemediumLogo.png'
   desc: Remedium Bio-Technology is a bio-technology company who through clinical research develop clinically proven cures and remedies utilizing marijuana as the core ingredient to our established research programs. As our name implies, 'Remedium', being Latin for 'remedy' or 'cure' aptly describes our company's ethos as we always have, and always will, put the needs of the patient first in developing remedies and cures for some of the worst illnesses and diseases known to mankind, many which have to date unmet needs.
 
-- name: Azure Automation Scripts
-  gh_user: tzuehlke
-  repo: scripts
-  img: https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png
-  desc: Some scripts that I used with Azure Automation. For example a VM Start/Stop script or a script for resetting a VPN tunnel.
 
-- name: Face API
-  gh_user: ArvatoSystems
-  repo: FaceApiWPF
-  img: https://raw.githubusercontent.com/ArvatoSystems/FaceApiWPF/master/FaceApiWPFScreenshot.png
-  desc: Using the WebCam and send continuously pictures to the Azure FaceAPI. The analyzed results like age and emotion drawn on the WebCam stream. 

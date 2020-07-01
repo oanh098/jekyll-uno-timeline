@@ -1,0 +1,31 @@
+---
+layout: default
+---
+
+<!--<div class="main-post-list">-->
+
+  <ul class="timeline">
+    
+    {% for theme in site.data.themes %}
+
+      <li class="timeline-inverted">
+        <div class="timeline-image">
+          <a href="{{ theme.website }}" target="_blank"><img class="img-me" src="{{ theme.img }}" alt=""></a>
+        </div>
+        <div class="timeline-panel">
+          <div class="timeline-heading">
+            <h4><a href="{{ theme.website }}" target="_blank">{{ theme.name }}</a></h4>
+          </div>
+          <div class="timeline-body">
+            {{ theme.copyright }}
+            <p><img src="{{ theme.desc-img }}" style="max-width: 500px" alt="description"></p>
+
+          </div>
+        </div>
+      </li>
+    {% endfor %}
+
+  </ul>
+
+<!--</div>-->
+

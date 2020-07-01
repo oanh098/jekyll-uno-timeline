@@ -2,7 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e403736-7e25-402f-ad5c-29faf35fda73" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_data/themes.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/themes/desc-jekyller-online-cv-master.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/themes/desc-the-interesting-times.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/themes/desc-wowthemesnet-affiliates-jekyll-theme-master.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/themes/ohduran-the-interesting-times-master.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/themes/wowthemesnet-affiliates-jekyll-theme-master.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/themes.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/projects.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/projects.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +34,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\WORKING\JekyllProjects\oanh098.github.io" />
       <recent name="D:\WORKING\JekyllProjects\oanh098.github.io\_data" />
     </key>
   </component>
@@ -51,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1593074567052</updated>
       <workItem from="1593074570350" duration="21876000" />
-      <workItem from="1593263055802" duration="2245000" />
+      <workItem from="1593263055802" duration="8296000" />
     </task>
     <servers />
   </component>

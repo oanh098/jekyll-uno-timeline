@@ -1,0 +1,37 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+- name: ohduran-the-interesting-times-master
+  github:
+  website: https://ohduran.github.io/the-interesting-times/
+  img: '/images/themes/ohduran-the-interesting-times-master.jpg'
+  desc-img: '/images/themes/desc-the-interesting-times.png'
+  copyright: Copyright (C) 2019 Alvaro Duran, https://www.alvaroduran.com. <p> The Interesting Times theme for Jekyll is designed and developed by Alvaro and it is free under MIT license.
+
+- name: wowthemesnet-affiliates-jekyll-theme-master
+  github:
+  website: https://wowthemesnet.github.io/affiliates-jekyll-theme/
+  img: https://jamstackthemes.dev/images/theme/thumbnail/wowthemesnet-affiliates-jekyll-theme-master.jpg
+  desc-img: https://raw.githubusercontent.com/wowthemesnet/affiliates-jekyll-theme/master/assets/images/theme1.jpg
+  copyright: Copyright (C) 2019 WowThemes.net.<p>Affiliates for Jekyll is designed by Sal and it is licensed MIT.
+
+- name: Ghost's Casper // Jasper2
+  github: https://github.com/jekyller/jasper2
+  website: https://wowthemesnet.github.io/affiliates-jekyll-theme/
+  img: https://jamstackthemes.dev/images/theme/thumbnail/jekyller-jasper2-master.jpg
+  desc-img: https://raw.githubusercontent.com/jekyller/jasper2/master/assets/screenshot-desktop.jpg
+  copyright: Same licence as the one provided by Ghost's team. See Casper's theme license. <p> Copyright (C) 2015-2018 - Released under the MIT License.
+
+- name: jekyller-online-cv-master @ Locky
+  github: https://github.com/jekyller/online-cv
+  website: https://jekyller.github.io/online-cv/
+  img: https://jamstackthemes.dev/images/theme/thumbnail/jekyller-online-cv-master.jpg
+  desc-img: https://raw.githubusercontent.com/jekyller/online-cv/master/demo/demo.png
+  copyright: "This theme is collected from cssmoban and modified by Locky. <p> I have made this into a Jekyll Theme."
+
+- name: A Jekyll template inspired by Netflix @ Thiago Rossener
+  github: https://github.com/thiagorossener/jekflix-template
+  website: https://jekflix.rossener.com/
+  img: https://jamstackthemes.dev/images/theme/thumbnail/thiagorossener-jekflix-template-master.jpg
+  desc-img: '/images/themes/desc-jekyller-online-cv-master.jpg'
+  copyright: "Jekflix Template is available under the MIT license. See the LICENSE file for more info."
