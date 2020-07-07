@@ -9,13 +9,12 @@
       <div class="content-wrapper__inner">
         {{ content }}
 
-    
-
-
       </div>
 
       {% include footer.html %}
+      {% include cookie-consent.html %}
     </div>
     <script type='text/javascript' data-cfasync='false'>window.purechatApi = { l: [], t: [], on: function () { this.l.push(arguments); } }; (function () { var done = false; var script = document.createElement('script'); script.async = true; script.type = 'text/javascript'; script.src = 'https://app.purechat.com/VisitorWidget/WidgetScript'; document.getElementsByTagName('HEAD').item(0).appendChild(script); script.onreadystatechange = script.onload = function (e) { if (!done && (!this.readyState || this.readyState == 'loaded' || this.readyState == 'complete')) { var w = new PCWidget({c: '436cff55-fa4c-41b7-a9f7-35743adbe120', f: true }); done = true; } }; })();</script>
+
   </body>
 </html>
