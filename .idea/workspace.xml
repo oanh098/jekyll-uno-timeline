@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0e403736-7e25-402f-ad5c-29faf35fda73" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/cookie-consent.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/cookie-consent.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +61,7 @@
       <updated>1593074567052</updated>
       <workItem from="1593074570350" duration="21876000" />
       <workItem from="1593263055802" duration="11496000" />
-      <workItem from="1594099026497" duration="9692000" />
+      <workItem from="1594099026497" duration="9768000" />
     </task>
     <servers />
   </component>
