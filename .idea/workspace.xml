@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="0e403736-7e25-402f-ad5c-29faf35fda73" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/timeline.scss" beforeDir="false" afterPath="$PROJECT_DIR$/_sass/timeline.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,12 +31,12 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../the-interesting-times-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_data" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\WORKING\JekyllProjects\oanh098.github.io" />
       <recent name="D:\WORKING\JekyllProjects\oanh098.github.io\_data" />
+      <recent name="D:\WORKING\JekyllProjects\oanh098.github.io" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -64,7 +65,8 @@
       <workItem from="1593263055802" duration="11496000" />
       <workItem from="1594099026497" duration="11772000" />
       <workItem from="1594115306500" duration="1484000" />
-      <workItem from="1594119927738" duration="7000" />
+      <workItem from="1594119927738" duration="2406000" />
+      <workItem from="1594809979676" duration="1121000" />
     </task>
     <servers />
   </component>
@@ -83,5 +85,17 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/_site/index.html</url>
+          <line>303</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
