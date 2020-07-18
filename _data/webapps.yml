@@ -2,7 +2,8 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 - name: Python, Django, Authentication
-  website: <iframe src="https://player.vimeo.com/video/438505288" width="640" height="349" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+  website: <div style="padding:54.58% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/438505288?byline=0&portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+    <p><a href="https://vimeo.com/438505288">Python - Authentication</a> from <a href="https://vimeo.com/user103617573">Oanh Tran Thuy</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
   img: '/images/python.png'
 #
 #- name: A Jekyll template inspired by Netflix @ Thiago Rossener
